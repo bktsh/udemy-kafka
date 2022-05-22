@@ -26,10 +26,10 @@ import java.util.concurrent.TimeUnit;
 public class TwitterProducer {
 
     private static final Logger logger = LoggerFactory.getLogger(TwitterProducer.class);
-    private static final String consumerKey = "1vsnyJRHRDSZfpZ11XOK2TnQM";
-    private static final String consumerSecret = "wIE3270kCQJxIJR7Z0dhq5G9zq02bhjtHJcwVmMWsSuUW3JqUP";
-    private static final String token = "1938670573-QsPwh4GMUy26njlsAPfcfl0FevGfj7zz5eWukyY";
-    private static final String secret = "VW1BchN1z5UPWtDJdVcr4WCbph6IpyRgaomxhKs4UuKWX";
+    private static final String consumerKey = "";
+    private static final String consumerSecret = "";
+    private static final String token = "";
+    private static final String secret = "";
     private static final String twitter_topic = "twitter_topic";
 
     List<String> terms = Lists.newArrayList("kafka","bitcoin");
